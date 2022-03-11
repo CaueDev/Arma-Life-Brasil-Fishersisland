@@ -1,0 +1,8 @@
+#include "Config_Misc.sqf"
+#include "Config_Intersect.sqf"
+#include "Config_Anticheat.sqf"
+#include "Config_Items.sqf"
+#include "Config_Vehicle.sqf"
+#include "Config_Factory.sqf"
+#include "Config_Shop.sqf"
+#include "Config_Animations.sqf"
